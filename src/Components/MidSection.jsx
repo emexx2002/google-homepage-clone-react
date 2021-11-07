@@ -46,11 +46,7 @@ function MidSection() {
                                             handleChange();
                                         }
                                     }}
-                                    onChange={(event) => {
-                                        
-                                            handleChange();
-                                        
-                                    }}
+                                    
                                 />
                             </form>
                             <span>
